@@ -1,6 +1,6 @@
-Colors:
-Background - 000000
-Main Color - c5b358
-Secondary Color - FFD500
-Extra Color 1 - 19FFFD
+Colors: <br>
+Background - 000000 <br>
+Main Color - c5b358 <br>
+Secondary Color - FFD500 <br>
+Extra Color 1 - 19FFFD <br>
 Extra Color 2 - B20989

@@ -1,0 +1,15 @@
+body{
+    background-color: #000000;
+    color: #c5b358;
+}
+.h1-subtext{
+    font-size: 5px;
+}
+#DirectoryTitle{
+    top: 0px;
+    left: 0px;
+}
+#DirectoryInfo{
+    top: 0px;
+    right: 0px;
+}

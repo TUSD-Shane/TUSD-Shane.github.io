@@ -2,6 +2,17 @@ body{
     background-color: #000000;
     color: #c5b358;
 }
-.h1-subtext{
-    font-size: 5px;
+.Subtext{
+    font-size: 10px;
+}
+.Header{
+    font-size: 50px;
+}
+.Button{
+    font-size: 20px;
+    background-color: rgba(178, 9, 137, 0.50);
+    color: #19FFFD;
+}
+.Default-Text{
+    font-size: 18px;
 }

@@ -6,10 +6,10 @@ body{
     font-size: 5px;
 }
 #DirectoryTitle{
-    top: 0px;
-    left: 0px;
+    top: 5%;
+    left: 5%;
 }
 #DirectoryInfo{
-    top: 0px;
-    right: 0px;
+    top: 5%;
+    right: 5%;
 }
